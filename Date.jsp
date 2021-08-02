@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru Uploading File After Change rotem</title
-</head>
+<title>Guru Uploading File After Change rotem
+</heald>
 <body>
 File: <br />
 <form action="guru_upload" method="post"
